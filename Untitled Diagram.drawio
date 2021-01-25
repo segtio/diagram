@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T08:21:18.654Z" agent="5.0 (X11)" etag="jUl-GUFHb8zevOYXhS5-" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T09:51:08.191Z" agent="5.0 (X11)" etag="Pd4ZWLopCJnylcK5CT1A" version="14.2.7" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="2031" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
             <mxPoint x="609.8739999999998" y="171.91999999999985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y7fo8upXCPEQHd1Dj6rG-13" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;SYNCHRONIATION &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DES&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;UTILISATEUR&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Y7fo8upXCPEQHd1Dj6rG-13" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;SYNCHRONIATION &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DES&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;UTILISATEUR&lt;/font&gt;S&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="459.5" y="608" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y7fo8upXCPEQHd1Dj6rG-15" value="ACTIVE DIRECTORY" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
